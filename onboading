@@ -1,1 +1,12 @@
 I am trying to practice devops bro
+PROJECT1 
+
+DEVOPS ENGR.  21/04/2023.
+
+●	LAMP STACK IMPLEMENTATION
+➢	   Step 1 — Installing Apache and Updating the Firewall
+➢	       To get the instance ID(EC2) connected to the ubuntu OS  terminal(Install Apache using Ubuntu’s package manager)
+➢	 ssh -i "Hill_EC2.pem" ubuntu@ec2-13-48-28-237.eu-north-1.compute.amazonaws.com.
+To update the firewall on the Apache web server
+
+
